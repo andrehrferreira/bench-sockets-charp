@@ -65,12 +65,14 @@ $ docker run -p 5001:5001 server-udp
 Build Client
 -------------
 
+Run Node
 ```bash
-$ cd client
-$ cargo build --release
+$ npm install
+$ node client.js
 ```
 
-Run
+Run Go
 ```bash
-$ ./target/release/client-rust
+$ go get github.com/gorilla/websocket
+$ go run client.go
 ```
