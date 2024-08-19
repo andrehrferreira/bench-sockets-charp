@@ -1,0 +1,14 @@
+/mnt/f/Node/bench-sockets-charp/server-tcp/bin/Release/net8.0/server-tcp
+/mnt/f/Node/bench-sockets-charp/server-tcp/bin/Release/net8.0/server-tcp.deps.json
+/mnt/f/Node/bench-sockets-charp/server-tcp/bin/Release/net8.0/server-tcp.runtimeconfig.json
+/mnt/f/Node/bench-sockets-charp/server-tcp/bin/Release/net8.0/server-tcp.dll
+/mnt/f/Node/bench-sockets-charp/server-tcp/bin/Release/net8.0/server-tcp.pdb
+/mnt/f/Node/bench-sockets-charp/server-tcp/obj/Release/net8.0/server-tcp.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/f/Node/bench-sockets-charp/server-tcp/obj/Release/net8.0/server-tcp.AssemblyInfoInputs.cache
+/mnt/f/Node/bench-sockets-charp/server-tcp/obj/Release/net8.0/server-tcp.AssemblyInfo.cs
+/mnt/f/Node/bench-sockets-charp/server-tcp/obj/Release/net8.0/server-tcp.csproj.CoreCompileInputs.cache
+/mnt/f/Node/bench-sockets-charp/server-tcp/obj/Release/net8.0/server-tcp.dll
+/mnt/f/Node/bench-sockets-charp/server-tcp/obj/Release/net8.0/refint/server-tcp.dll
+/mnt/f/Node/bench-sockets-charp/server-tcp/obj/Release/net8.0/server-tcp.pdb
+/mnt/f/Node/bench-sockets-charp/server-tcp/obj/Release/net8.0/server-tcp.genruntimeconfig.cache
+/mnt/f/Node/bench-sockets-charp/server-tcp/obj/Release/net8.0/ref/server-tcp.dll

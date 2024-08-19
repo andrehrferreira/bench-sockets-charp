@@ -1,0 +1,5 @@
+/mnt/f/Node/bench-sockets-charp/server-ws/publish/server-ws
+/mnt/f/Node/bench-sockets-charp/server-ws/publish/server-ws.dll
+/mnt/f/Node/bench-sockets-charp/server-ws/publish/server-ws.deps.json
+/mnt/f/Node/bench-sockets-charp/server-ws/publish/server-ws.runtimeconfig.json
+/mnt/f/Node/bench-sockets-charp/server-ws/publish/server-ws.pdb

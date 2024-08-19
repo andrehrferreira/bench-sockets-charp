@@ -1,0 +1,14 @@
+/mnt/f/Node/bench-sockets-charp/server-ws/bin/Release/net8.0/server-ws
+/mnt/f/Node/bench-sockets-charp/server-ws/bin/Release/net8.0/server-ws.deps.json
+/mnt/f/Node/bench-sockets-charp/server-ws/bin/Release/net8.0/server-ws.runtimeconfig.json
+/mnt/f/Node/bench-sockets-charp/server-ws/bin/Release/net8.0/server-ws.dll
+/mnt/f/Node/bench-sockets-charp/server-ws/bin/Release/net8.0/server-ws.pdb
+/mnt/f/Node/bench-sockets-charp/server-ws/obj/Release/net8.0/server-ws.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/f/Node/bench-sockets-charp/server-ws/obj/Release/net8.0/server-ws.AssemblyInfoInputs.cache
+/mnt/f/Node/bench-sockets-charp/server-ws/obj/Release/net8.0/server-ws.AssemblyInfo.cs
+/mnt/f/Node/bench-sockets-charp/server-ws/obj/Release/net8.0/server-ws.csproj.CoreCompileInputs.cache
+/mnt/f/Node/bench-sockets-charp/server-ws/obj/Release/net8.0/server-ws.dll
+/mnt/f/Node/bench-sockets-charp/server-ws/obj/Release/net8.0/refint/server-ws.dll
+/mnt/f/Node/bench-sockets-charp/server-ws/obj/Release/net8.0/server-ws.pdb
+/mnt/f/Node/bench-sockets-charp/server-ws/obj/Release/net8.0/server-ws.genruntimeconfig.cache
+/mnt/f/Node/bench-sockets-charp/server-ws/obj/Release/net8.0/ref/server-ws.dll

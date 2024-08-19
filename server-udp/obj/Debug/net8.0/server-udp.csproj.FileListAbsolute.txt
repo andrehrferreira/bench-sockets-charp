@@ -1,0 +1,14 @@
+/mnt/f/Node/bench-sockets-charp/server-udp/bin/Debug/net8.0/server-udp
+/mnt/f/Node/bench-sockets-charp/server-udp/bin/Debug/net8.0/server-udp.deps.json
+/mnt/f/Node/bench-sockets-charp/server-udp/bin/Debug/net8.0/server-udp.runtimeconfig.json
+/mnt/f/Node/bench-sockets-charp/server-udp/bin/Debug/net8.0/server-udp.dll
+/mnt/f/Node/bench-sockets-charp/server-udp/bin/Debug/net8.0/server-udp.pdb
+/mnt/f/Node/bench-sockets-charp/server-udp/obj/Debug/net8.0/server-udp.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/f/Node/bench-sockets-charp/server-udp/obj/Debug/net8.0/server-udp.AssemblyInfoInputs.cache
+/mnt/f/Node/bench-sockets-charp/server-udp/obj/Debug/net8.0/server-udp.AssemblyInfo.cs
+/mnt/f/Node/bench-sockets-charp/server-udp/obj/Debug/net8.0/server-udp.csproj.CoreCompileInputs.cache
+/mnt/f/Node/bench-sockets-charp/server-udp/obj/Debug/net8.0/server-udp.dll
+/mnt/f/Node/bench-sockets-charp/server-udp/obj/Debug/net8.0/refint/server-udp.dll
+/mnt/f/Node/bench-sockets-charp/server-udp/obj/Debug/net8.0/server-udp.pdb
+/mnt/f/Node/bench-sockets-charp/server-udp/obj/Debug/net8.0/server-udp.genruntimeconfig.cache
+/mnt/f/Node/bench-sockets-charp/server-udp/obj/Debug/net8.0/ref/server-udp.dll

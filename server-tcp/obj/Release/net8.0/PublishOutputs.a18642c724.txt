@@ -1,0 +1,5 @@
+/mnt/f/Node/bench-sockets-charp/server-tcp/publish/server-tcp
+/mnt/f/Node/bench-sockets-charp/server-tcp/publish/server-tcp.dll
+/mnt/f/Node/bench-sockets-charp/server-tcp/publish/server-tcp.deps.json
+/mnt/f/Node/bench-sockets-charp/server-tcp/publish/server-tcp.runtimeconfig.json
+/mnt/f/Node/bench-sockets-charp/server-tcp/publish/server-tcp.pdb

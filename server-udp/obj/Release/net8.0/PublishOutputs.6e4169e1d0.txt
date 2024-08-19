@@ -1,0 +1,5 @@
+/mnt/f/Node/bench-sockets-charp/server-udp/publish/server-udp
+/mnt/f/Node/bench-sockets-charp/server-udp/publish/server-udp.dll
+/mnt/f/Node/bench-sockets-charp/server-udp/publish/server-udp.deps.json
+/mnt/f/Node/bench-sockets-charp/server-udp/publish/server-udp.runtimeconfig.json
+/mnt/f/Node/bench-sockets-charp/server-udp/publish/server-udp.pdb
