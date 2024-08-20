@@ -5,14 +5,14 @@
 	"main": "client.js",
 	"author": "Andre Ferreira <andrehrf@gmail.com>",
 	"license": "MIT",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/andrehrferreira/bench-sockets-csharp"
-    },
-    "bugs": {
-        "url": "https://github.com/andrehrferreira/bench-sockets-csharp/issues"
-    },
-    "homepage": "https://github.com/andrehrferreira/bench-sockets-csharp",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/andrehrferreira/bench-sockets-csharp"
+	},
+	"bugs": {
+		"url": "https://github.com/andrehrferreira/bench-sockets-csharp/issues"
+	},
+	"homepage": "https://github.com/andrehrferreira/bench-sockets-csharp",
 	"dependencies": {
 		"ws": "^8.18.0"
 	}
