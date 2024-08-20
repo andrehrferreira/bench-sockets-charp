@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Yk+dFdoxI8CZe/fcBLegZRbXWQlz9Qz8fIcenlclneviF+TO/omQTnEQxnecS8oNx4HEXacSFdLjYzVUMC9Ang==",
+  "dgSpecHash": "9/Us5RLrN8Q=",
   "success": true,
-  "projectFilePath": "F:\\Node\\bench-sockets-charp\\server-udp\\server-udp.csproj",
+  "projectFilePath": "/mnt/f/Node/bench-sockets-charp/server-udp/server-udp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

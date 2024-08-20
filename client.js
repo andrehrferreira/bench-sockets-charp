@@ -4,8 +4,8 @@ const dgram = require('dgram');
 
 const env = process.env;
 const SERVERS = [
-    { name: "C# WebSocket", url: "ws://127.0.0.1:3001", protocol: 'ws' },
-    { name: "C# TCP", url: "127.0.0.1:4001", protocol: 'tcp' },
+    //{ name: "C# WebSocket", url: "ws://127.0.0.1:3001", protocol: 'ws' },
+    //{ name: "C# TCP", url: "127.0.0.1:4001", protocol: 'tcp' },
     { name: "C# UDP", url: "127.0.0.1:5001", protocol: 'udp' },
 ];
 
