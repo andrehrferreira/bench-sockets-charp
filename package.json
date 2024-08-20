@@ -1,10 +1,18 @@
 {
-	"name": "bench-socket",
-	"version": "1.0.0",
-	"description": "",
+	"name": "bench-socket-csharp",
+	"version": "0.0.1",
+	"description": "C# implementation for Websocket, TCP and UDP performance testing",
 	"main": "client.js",
-	"author": "Andre Ferreira",
+	"author": "Andre Ferreira <andrehrf@gmail.com>",
 	"license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/andrehrferreira/bench-sockets-csharp"
+    },
+    "bugs": {
+        "url": "https://github.com/andrehrferreira/bench-sockets-csharp/issues"
+    },
+    "homepage": "https://github.com/andrehrferreira/bench-sockets-csharp",
 	"dependencies": {
 		"ws": "^8.18.0"
 	}
